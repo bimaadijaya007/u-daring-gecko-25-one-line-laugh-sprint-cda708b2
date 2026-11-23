@@ -1,6 +1,8 @@
 # u-daring-gecko-25-one-line-laugh-sprint-cda708b2
 
 [![make.fun](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/bimaadijaya007/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/bimaadijaya007/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
 
 I asked my smart speaker to order toilet paper and it said, "You've ordered this three times this week — are you okay?"
 
